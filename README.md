@@ -37,12 +37,7 @@ If you want to modify the project, use **VS Code or any code editor**.
 
 ---
 
-## 🚀 Deployment on GitHub Pages
-You can deploy this project on **GitHub Pages**:
-1. Go to your GitHub repository **Settings > Pages**  
-2. Under "Source," select **Branch: `main`** and click **Save**  
-3. Your project will be live at:  
-   🔗 [https://ankitktariya.github.io/StudySync/](https://ankitktariya.github.io/StudySync/)
+
 
 ---
 
